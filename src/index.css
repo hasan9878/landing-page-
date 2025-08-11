@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+@import "tailwindcss";
+
+/* কাস্টম কালার */
+@theme {
+  --color-brand-light: #93c5fd;
+  --color-brand: #3b82f6;
+  --color-brand-dark: #1e3a8a;
+}
+
+
+
+@import 'aos/dist/aos.css';
